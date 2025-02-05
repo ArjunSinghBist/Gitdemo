@@ -1,0 +1,3 @@
+[submodule "scaler-rest-demo"]
+	path = scaler-rest-demo
+	url = ..\\scaler-rest-demo
